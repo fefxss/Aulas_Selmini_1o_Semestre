@@ -56,6 +56,5 @@ public class Util {
         else {
             showMessageDialog(null, "Problemas ao reservar");
         }
-
     }
 }
