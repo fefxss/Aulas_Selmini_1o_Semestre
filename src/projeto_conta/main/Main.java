@@ -15,7 +15,9 @@ public class Main {
 
         for(Conta conta : lista) {
             conta.depositar(2000);
-            System.out.println(conta.getSaldoDisponivel());
+            if (conta instanceof ContaPoupanca){
+                ((ContaPoupanca) conta).aplicarRendimento();
+            }
         }
 
 
