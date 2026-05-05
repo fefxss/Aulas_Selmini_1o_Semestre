@@ -1,12 +1,11 @@
-package br.fiap.util;
+package projeto_reserva_de_cargas.fiap.br.util;
 
-import br.fiap.carga.Carga;
-import br.fiap.cliente.Cliente;
-import br.fiap.navio.Navio;
+import projeto_reserva_de_cargas.fiap.br.carga.Carga;
+import projeto_reserva_de_cargas.fiap.br.cliente.Cliente;
+import projeto_reserva_de_cargas.fiap.br.navio.Navio;
 
 import static javax.swing.JOptionPane.*;
 import static java.lang.Integer.parseInt;
-import static java.lang.Double.parseDouble;
 
 public class Util {
 

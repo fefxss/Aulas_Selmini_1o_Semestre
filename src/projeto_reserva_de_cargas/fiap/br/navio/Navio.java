@@ -1,6 +1,6 @@
-package br.fiap.navio;
+package projeto_reserva_de_cargas.fiap.br.navio;
 
-import br.fiap.carga.Carga;
+import projeto_reserva_de_cargas.fiap.br.carga.Carga;
 
 public class Navio {
     private double capacidade;

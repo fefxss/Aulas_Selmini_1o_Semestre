@@ -1,4 +1,4 @@
-package exercicio06;
+package projeto_veiculo;
 
 import java.util.ArrayList;
 

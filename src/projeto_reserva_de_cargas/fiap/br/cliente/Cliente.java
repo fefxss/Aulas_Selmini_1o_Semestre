@@ -1,4 +1,4 @@
-package br.fiap.cliente;
+package projeto_reserva_de_cargas.fiap.br.cliente;
 
 public class Cliente {
     private int cnpj;

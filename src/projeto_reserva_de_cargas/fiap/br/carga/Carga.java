@@ -1,6 +1,6 @@
-package br.fiap.carga;
+package projeto_reserva_de_cargas.fiap.br.carga;
 
-import br.fiap.cliente.Cliente;
+import projeto_reserva_de_cargas.fiap.br.cliente.Cliente;
 
 import java.text.DecimalFormat;
 import java.util.Random;
